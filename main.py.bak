@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+import pandas as pd ##
+=======
 import pandas as pd #modif etuB
+>>>>>>> d551d1c (gestion conflit etuB)
 from sklearn import svm  
 from train_model import train_model
 from preprocess_data import preprocess_data
